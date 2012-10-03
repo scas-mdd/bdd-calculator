@@ -10,8 +10,8 @@ Background:
         Then it should print substraction is 4
     
     Scenario: Multiplication
-        When I enter 3 multiplied by 4
-        Then it should print multiplication is 12
+        When I enter 3 multiplied by 5
+        Then it should print multiplication is 15
     
     Scenario: Dividing
         When I enter 4 divided by 2
